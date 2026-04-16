@@ -1,0 +1,132 @@
+header{
+  justify-content: space between;
+  background-color: #00bcd4;
+  color: #fff;
+  align-items: center;
+  text-align: center;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+}
+h1{ text-shadow:5px 5px 5px;}
+nav {
+    background: #00bcd4;
+    padding: 15px;
+    text-align: center;
+}
+}
+nav a{
+  display: flex;
+  text-decoration: none;
+  position:  fixed top;
+  margin-left: 5px;
+}
+a{ color: #fff;
+background-color: #00bcd4;
+text-decoration: none;
+  justify-content: space between;
+  word-spacing: 5px;
+  text-align: center;
+}
+a:link{color:#fff ;background-color:blue;}
+a:visited{ color:#fff;}
+a:hover{ background-color:aqua;}
+a:active{ color:aqua;background-color:#fff;}
+main{ height: 550px;
+text-align: center;
+word-spacing: 5px;
+}
+footer{position: reflexive;
+  background-color: #00bcd4;
+  color: #fff;
+  text-align: center;
+}
+marquee{ background-color:aqua;
+  color: #fff;
+}
+button{ background-color:aqua;
+  border: 2px;
+  border-collapse: collapse;
+  border-style: none;
+  color: #fff;
+}
+input{ background-color:#fff;
+  color: #00bcd4;
+  border-radius: 5px;
+  border: 1;
+}
+.courses{
+padding:40px 40px;
+text-align:center;
+}
+
+.course-box{
+background:white;
+display:inline-block;
+width:250px;
+margin:15px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 5px 15px #00bcd4;
+text-align: center;
+}
+
+.course-box button{
+background:#00bcd4;
+color:white;
+border-radius:5px ;
+padding:10px;
+cursor:pointer;
+}
+
+.ai-tools{
+background:#eef3f9;
+padding:40px;
+text-align:center;
+}
+
+.ai-box{
+display:inline-block;
+width:220px;
+margin:15px;
+padding:20px;
+background:white;
+border-radius:10px;
+box-shadow:0 5px 15px #00bcd4;
+}
+
+.ai-box a{
+display:inline-block;
+margin-top:10px;
+text-decoration:none;
+background:#00bcd4;
+color:white;
+padding:8px 15px;
+border-radius:5px;
+}
+
+.content{
+padding:40px;
+max-width:800px;
+margin:auto;
+.hero{
+background:linear-gradient(135deg,#00bcd4,#fff);
+color:white;
+padding:80px;
+text-align:center;
+}
+
+.hero button{
+padding:12px 25px;
+font-size:18px;
+border:none;
+background:white;
+color:#00bcd4;
+cursor:pointer;
+border-radius:5px;
+.lable{
+  cursor: pointer;
+}
+form{
+  border:1;
+  border-radius: 10px;
+}
